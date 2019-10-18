@@ -1,0 +1,8 @@
+Hi,
+This is Ishaak and here are some of my suggestions for a NIDS.
+
+1. Use for Feature selection algorithms like chi2 and correlation based selection.
+2. Features of KDD99 are pretty distributed so it would be great if scenario based features are developed and used.
+3. Encoding of Dataset.
+4. Scaling and Normalising of the dataset would really boost the computation time and accuracy.
+ 
